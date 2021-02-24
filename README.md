@@ -6,6 +6,7 @@
 
 * https://web.archive.org/web/20020215140104/http://www.kpovmodeler.org/
 * http://truevision.sourceforge.net/
+* http://pdelagrange.free.fr/povlab/
 
 * https://agalena.nfshost.com/b1/software/epspline-prism-and-lathe-editor/
 
